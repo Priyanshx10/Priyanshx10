@@ -22,7 +22,6 @@
 ### 👨‍💻 About Me
 
 - 💻 I'm a **Full Stack Web Developer** with **3+ years of experience** in MERN stack and scalable web applications.
-- 🏢 Founder @ **PR-Connect** – A growing IT Consulting business with 10+ active clients across Europe and India.
 - 🚀 Passionate about building **AI-powered tools**, **real-time applications**, and solving real-world problems.
 - 🌱 Currently exploring **Next.js**, **TypeScript**, **React Native**, and **automation tools**.
 - 📫 Reach me directly via email or LinkedIn (links above).
