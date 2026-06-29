@@ -1,109 +1,187 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" alt="Developer animation" />
-</div>
-
-<h1 align="center">Hi 👋, I'm Priyansh Yadav</h1>
+# <div align="center">Hi 👋, I'm Priyansh Yadav</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/priyansh10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Priyansh Yadav-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:priyanshyadav1012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Priyansh Email" />
-  </a>
+
+### Full Stack Developer • Java Developer • MERN Stack • AI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+Something+New!" />
+
 </div>
+
+---
+
+## 🚀 About Me
+
+* 💻 Full Stack Developer with **3+ years** of experience building modern web applications.
+* ☕ Currently mastering **Java, Spring Boot, and Data Structures & Algorithms**.
+* 🤖 Passionate about **AI**, **automation**, and solving real-world problems.
+* 🌱 Learning scalable backend architecture and cloud technologies.
+* 🎯 Goal: Become a Software Engineer building products used by millions.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/priyansh10/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:priyanshyadav1012@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* Tailwind CSS
+* Material UI
+* Bootstrap
+
+### Backend
+
+* Node.js
+* Express.js
+* Java
+* Python
+* Django
+* REST APIs
+
+### Database
+
+* MongoDB
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* VS Code
+* Vercel
+* Gradle
+* JUnit 5
+
+---
+
+# 🚀 Featured Projects
+
+## ☕ AeroQuiz
+
+A Java CLI Quiz Application demonstrating Object-Oriented Programming, Gradle, JUnit 5, and clean architecture.
+
+**Tech Stack**
+
+* Java
+* Gradle
+* JUnit 5
+
+---
+
+## 📊 KPI Plus Dashboard
+
+Analytics dashboard built using React.
+
+🔗 https://kpi-beta.vercel.app/
+
+---
+
+## 📱 iPhone Landing Page
+
+Responsive Apple-inspired landing page.
+
+🔗 https://iphone-website-priyansh.vercel.app/
+
+---
+
+## 🎥 VideoRoom
+
+Video conferencing application.
+
+🔗 https://videoroom-liart.vercel.app/
+
+---
+
+# 📚 Currently Learning
+
+* Java
+* Spring Boot
+* Data Structures & Algorithms
+* System Design
+* Docker
+* AWS
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyanshx10&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshx10&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Priyanshx10&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Priyanshx10&theme=tokyonight&row=2&column=3"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshx10&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+* ✅ Master Java
+* ✅ Solve 300+ DSA Problems
+* ✅ Learn Spring Boot
+* ✅ Build Production REST APIs
+* ✅ Contribute to Open Source
+* ✅ Land a Software Engineer Role
+
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PriyanshYadav.PriyanshYadav" />
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code with purpose. Build with passion."*
+
 </div>
-
----
-
-### 👨‍💻 About Me
-
-- 💻 I'm a **Full Stack Web Developer** with **3+ years of experience** in MERN stack and scalable web applications.
-- 🚀 Passionate about building **AI-powered tools**, **real-time applications**, and solving real-world problems.
-- 🌱 Currently exploring **Next.js**, **TypeScript**, **React Native**, and **automation tools**.
-- 📫 Reach me directly via email or LinkedIn (links above).
-
----
-
-### 🔧 Skills & Tech Stack
-
-#### 🚀 Frontend Development
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="SASS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="35" alt="Material UI"/>
-</div>
-
-#### 🧠 Backend & API
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React Native"/>
-</div>
-
-#### 🧰 Tools & Deployment
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="35" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" height="35" alt="Vercel"/>
-</div>
-
----
-
-### 📁 Live Projects (Improved Links)
-
-- **📊 KPI Plus Dashboard**  
-  🔗 [Live Demo](https://kpi-beta.vercel.app/) | 💻 [GitHub](https://github.com/PriyanshYadav/KPI-Plus)
-
-- **📱 iPhone Landing Page**  
-  🔗 [Live Demo](https://iphone-website-priyansh.vercel.app/) | 💻 [GitHub](https://github.com/PriyanshYadav/iPhone-Website)
-
-- **🎥 VideoRoom – Video Chat App**  
-  🔗 [Live Demo](https://videoroom-liart.vercel.app/) | 💻 [GitHub](https://github.com/PriyanshYadav/VideoRoom)
-
----
-
----
-
-### 📈 GitHub Contribution Graph
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Priyanshx10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanshx10&theme=darkhub&margin-w=15&row=2&column=3" alt="GitHub Trophies" /> 
-</div>
-
----
-
-### 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/priyansh10/)
-- 📩 [Email Me](mailto:priyanshyadav1012@gmail.com)
-
----
-
-> 💡 “Code with purpose. Build with passion.”
-
